@@ -14,7 +14,6 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
   height: 40rem;
 }
 
@@ -106,8 +105,23 @@ h1 {
 }
 .main-section .main-section-h2-1 {
   font-family: "Abril Fatface";
+  font-weight: 900;
+  margin-bottom: 1rem;
+  font-size: 3rem;
 }
-
+.main-section-p-1 {
+  font-family: "Archivo Black", sans-serif;
+  color: rgb(107, 107, 107);
+}
+.main-section-btn-1 {
+  font-weight: 900;
+  background-color: transparent;
+  text-decoration: 4px solid yellow underline;
+  border-style: none;
+  text-align: left;
+  padding-top: 2rem;
+  padding-left: 1rem;
+}
 .main-seciton-content-img-1 {
   background-color: blue;
 }
