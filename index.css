@@ -89,7 +89,7 @@ h1 {
 
 /*main section styling*/
 .main-section {
-  background-color: red;
+  background-color: white;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -100,6 +100,12 @@ h1 {
 }
 .main-section-content-1 {
   width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding: 10rem;
+}
+.main-section .main-section-h2-1 {
+  font-family: "Abril Fatface";
 }
 
 .main-seciton-content-img-1 {
